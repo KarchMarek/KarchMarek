@@ -1,5 +1,5 @@
 
-# Marek Karch
+# Bc. Marek Karch, MBA
 
 > **Frontend Developer • Web Developer • Software Engineer**
 
