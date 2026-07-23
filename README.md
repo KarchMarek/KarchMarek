@@ -20,7 +20,7 @@
 
 ---
 
-# About Me
+# 💜 About Me
 
 I am a **Frontend Developer** passionate about creating modern, responsive and user-friendly websites.
 
@@ -39,13 +39,37 @@ Currently focusing on:
 
 ---
 
-# Tech Stack
+# 🚀 Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,laravel,python,php,git,github,vscode,wordpress,mysql)
 
 ---
 
-# Experience
+# ⚡ Frontend Skills
+
+| Category | Technologies |
+|----------|--------------|
+| Languages | HTML5 • CSS3 • JavaScript • TypeScript |
+| Frameworks | React • Next.js |
+| Styling | Tailwind CSS • Responsive Design |
+| Backend Basics | PHP • SQL |
+| CMS | WordPress |
+| Version Control | Git • GitHub |
+| IDE | VS Code |
+| Design | Figma |
+
+---
+
+# 🤝 Open To
+
+- Frontend Developer
+- React Developer
+- Junior Software Engineer
+- Web Development Projects
+
+---
+
+# 💼 Experience
 
 ## Functional Tester
 **SYDO Fitness App**
@@ -58,7 +82,7 @@ Currently focusing on:
 
 ---
 
-# Education
+# 🎓 Education
 
 - Ing. Security Systems Management (ongoing)
 - MBA Leadership, Coaching & Mentoring
@@ -67,7 +91,7 @@ Currently focusing on:
 
 ---
 
-# Certifications
+# 📜 Certifications
 
 - Google AI Professional Certificate
 - Manual Testing
@@ -77,7 +101,7 @@ Currently focusing on:
 
 ---
 
-# GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -87,37 +111,46 @@ Currently focusing on:
 
 ---
 
-# Activity Graph
+# 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarchMarek&theme=tokyo-night"/>
 
 ---
 
-# Current Focus
+# 🌱 Current Focus
 
 ```yaml
-Learning:
+learning:
   - React
-  - Laravel
   - TypeScript
   - Next.js
+  - Frontend Architecture
 
-Building:
-  - Frontend Projects
-  - Responsive Websites
+building:
+  - Modern Websites
+  - Responsive UI
+  - Portfolio Projects
 
-Exploring:
-  - Modern UI/UX
-  - Full Stack Development
+improving:
+  - Clean Code
+  - Performance
+  - Accessibility
 
-OpenTo:
-  - Frontend Developer roles
-  - Functional Testing
 ```
 
 ---
 
-# Connect
+# 📚 What I'm Working On
+
+- 🌐 Building modern frontend applications
+- ⚛️ Improving React skills
+- 🎨 Creating clean and responsive UI
+- 🚀 Expanding my GitHub portfolio
+- 📖 Learning new frontend technologies
+
+---
+
+# 📬 Connect With Me
 
 - GitHub: https://github.com/KarchMarek
 - LinkedIn: https://www.linkedin.com/in/marek-karch/
