@@ -10,12 +10,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Building+Modern+Web+Applications;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Always+Learning+New+Technologies"/>
 </p>
 
+<br>
+
 <p align="center">
-
-<a href="https://github.com/KarchMarek"><img src="https://img.shields.io/badge/GitHub-KarchMarek-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/marek-karch/"><img src="https://img.shields.io/badge/LinkedIn-Marek%20Karch-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:karch.marek76@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
-
+  <a href="https://github.com/KarchMarek"><img src="https://img.shields.io/badge/GitHub-KarchMarek-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/marek-karch/"><img src="https://img.shields.io/badge/LinkedIn-Marek%20Karch-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:karch.marek76@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
