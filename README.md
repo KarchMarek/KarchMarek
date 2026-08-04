@@ -69,14 +69,19 @@ Currently focusing on:
 
 # 💼 Experience
 
-## Functional Tester
-**SYDO Fitness App**
+## Functional Testing Experience
 
-- Manual testing
-- Bug reporting
-- Test scenarios
-- Jira
-- GitLab
+### SYDO Fitness App
+- Performed manual testing of new features
+- Reported bugs and verified fixes
+- Created and executed test scenarios
+- Worked with GitLab and GitHub
+
+### AUM The Game (iOS Beta)
+- Performed manual functional testing through TestFlight
+- Identified and reported defects during beta testing
+- Verified bug fixes and regression testing
+- Tested gameplay and user experience on iOS devices
 
 ---
 
