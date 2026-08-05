@@ -104,19 +104,16 @@ Currently focusing on:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=KarchMarek&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarchMarek&theme=tokyo-night"/>
+
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KarchMarek/KarchMarek/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
