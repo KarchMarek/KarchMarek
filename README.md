@@ -104,12 +104,7 @@ Currently focusing on:
 
 ---
 
-# 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KarchMarek&theme=tokyo-night"/>
-
-
-<h2 align="center">🐍 Contribution Snake</h2>
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KarchMarek/KarchMarek/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
